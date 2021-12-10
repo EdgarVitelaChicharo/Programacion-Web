@@ -1,0 +1,13 @@
+body {
+	background-color: #000000;
+}
+
+.section {
+	width: 100%;
+	height: 100%;
+}
+
+.section img {
+	background-color: #000000;
+	object-fit: cover;
+}

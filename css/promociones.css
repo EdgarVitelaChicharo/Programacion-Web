@@ -1,0 +1,64 @@
+body {
+	background: radial-gradient(circle,#fff,#000)
+}
+
+.contUno {
+	font-size: 30px;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 50%;
+	height: 80px;
+}
+
+.contUno img{
+	margin-left: 15px;
+	float: right;
+	width: 90px;
+}
+
+.contDos {
+	font-size: 30px;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 50%;
+	height: 80px;
+}
+
+.contDos img{
+	margin-left: 15px;
+	float: right;
+	width: 90px;
+}
+
+.contTres {
+	font-size: 30px;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 50%;
+	height: 80px;
+}
+
+.contTres img{
+	margin-left: 15px;
+	float: right;
+	width: 90px;
+}
+
+.contCuatro {
+	font-size: 30px;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 200px;
+	width: 50%;
+	height: 80px;
+}
+
+.contCuatro img{
+	margin-left: 15px;
+	float: right;
+	width: 90px;
+}
+
